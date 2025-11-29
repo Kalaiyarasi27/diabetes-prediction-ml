@@ -1,6 +1,3 @@
-Perfect! Here's your **updated README with emojis** to make it more friendly and visually appealing:
-
----
 
 # Diabetes Prediction ML App 🩺🤖
 

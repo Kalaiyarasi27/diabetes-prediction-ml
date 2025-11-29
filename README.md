@@ -91,6 +91,4 @@ GitHub: [https://github.com/Kalaiyarasi27](https://github.com/Kalaiyarasi27)
 
 ---
 
-If you want, I can also make a **GitHub-ready version with badges, emojis, and a preview screenshot** that will make your repo stand out professionally.
 
-Do you want me to do that next?

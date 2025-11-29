@@ -8,12 +8,19 @@ A **Streamlit web app** to predict the likelihood of diabetes using health param
 
 * Predicts diabetes risk from health parameters:
   🟢 Pregnancies
+  
   🟢 Glucose
+
   🟢 Blood Pressure
+  
   🟢 Skin Thickness
+  
   🟢 Insulin
+  
   🟢 BMI
+  
   🟢 Diabetes Pedigree Function
+  
   🟢 Age
 * Uses **Random Forest Classifier** 🌲 for prediction
 * Interactive **Streamlit UI** 💻
@@ -78,10 +85,7 @@ Built with ❤️ by **Kalaiyarasi Nagarajan**
 Dreamt, designed, and developed to help users predict diabetes risk and make informed health decisions.
 
 GitHub: [https://github.com/Kalaiyarasi27](https://github.com/Kalaiyarasi27)
-Deployed App: [Streamlit App](https://diabetes-prediction-mlgit-e7kvfp4pzyupiu6rwnd2xu.streamlit.app/) 🌐
 
----
+Deployed App: [Streamlit App](https://diabetes-prediction-mlgit-e7kvfp4pzyupiu6rwnd2xu.streamlit.app/) 
 
-If you want, I can make an **even snappier GitHub version** with badges, a preview image, and better formatting so it looks professional at first glance.
 
-Do you want me to do that?

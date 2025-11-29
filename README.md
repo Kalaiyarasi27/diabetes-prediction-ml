@@ -1,30 +1,25 @@
 
 # Diabetes Prediction ML App 🩺🤖
 
-A **Streamlit web app** to predict the likelihood of diabetes using health parameters and a trained **Random Forest Classifier** model. 🌟
+A **Streamlit web app** to predict the likelihood of diabetes using health parameters and a trained **Random Forest Classifier** model.
 
+---
 
 ## Features ✨
 
 * Predicts diabetes risk from health parameters:
-  🟢 Pregnancies
-  
-  🟢 Glucose
 
-  🟢 Blood Pressure
-  
-  🟢 Skin Thickness
-  
-  🟢 Insulin
-  
-  🟢 BMI
-  
-  🟢 Diabetes Pedigree Function
-  
-  🟢 Age
-* Uses **Random Forest Classifier** 🌲 for prediction
-* Interactive **Streamlit UI** 💻
-* Works locally and on **Streamlit Cloud** ☁️
+  * Pregnancies
+  * Glucose
+  * Blood Pressure
+  * Skin Thickness
+  * Insulin
+  * BMI
+  * Diabetes Pedigree Function
+  * Age
+* Uses **Random Forest Classifier**  for prediction
+* Interactive **Streamlit UI** 
+* Works locally and on **Streamlit Cloud** 
 
 
 ## Folder Structure 📂
@@ -78,14 +73,12 @@ streamlit run src/streamlit_app.py
 ```
 
 
-## Author 
+
+## Author 👩‍💻
 
 Built with ❤️ by **Kalaiyarasi Nagarajan**
 
 Dreamt, designed, and developed to help users predict diabetes risk and make informed health decisions.
 
 GitHub: [https://github.com/Kalaiyarasi27](https://github.com/Kalaiyarasi27)
-
-Deployed App: [Streamlit App](https://diabetes-prediction-mlgit-e7kvfp4pzyupiu6rwnd2xu.streamlit.app/) 
-
-
+Deployed App: [Streamlit App](https://diabetes-prediction-mlgit-e7kvfp4pzyupiu6rwnd2xu.streamlit.app/) 🌐

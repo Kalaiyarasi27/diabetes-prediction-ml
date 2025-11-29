@@ -1,0 +1,35 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.swp
+*.sqlite3
+
+# Env
+venv/
+.venv/
+env/
+.env
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Data / model (do NOT push large data/models unless you want to)
+data/
+model/
+models/
+*.pkl
+*.joblib
+
+# Streamlit
+.streamlit/
+
+# Logs
+logs/
+*.log

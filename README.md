@@ -3,7 +3,6 @@
 
 A **Streamlit web app** to predict the likelihood of diabetes using health parameters and a trained **Random Forest Classifier** model.
 
----
 
 ## Features ✨
 
@@ -73,12 +72,9 @@ streamlit run src/streamlit_app.py
 ```
 
 
-
-## Author 👩‍💻
-
 Built with ❤️ by **Kalaiyarasi Nagarajan**
 
 Dreamt, designed, and developed to help users predict diabetes risk and make informed health decisions.
 
 GitHub: [https://github.com/Kalaiyarasi27](https://github.com/Kalaiyarasi27)
-Deployed App: [Streamlit App](https://diabetes-prediction-mlgit-e7kvfp4pzyupiu6rwnd2xu.streamlit.app/) 🌐
+Deployed App: [Streamlit App](https://diabetes-prediction-mlgit-e7kvfp4pzyupiu6rwnd2xu.streamlit.app/) 
